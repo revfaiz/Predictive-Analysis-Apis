@@ -1,2 +1,2 @@
 # Predictive-Analysis
-Utilizing the facebook library to trai a currency exchange rate
+Utilizing the facebook library to train a currency exchange rate
